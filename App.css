@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.MuiCard-root {
+  margin: 20px auto;
+  max-width: 400px;
+}
